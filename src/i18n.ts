@@ -4,7 +4,7 @@ type Messages = Record<string, string>
 
 const zh: Messages = {
   // Header
-  "app.title": "营销活动策划工作台",
+  "app.title": "德林哥的营销活动策划工作台",
   "app.new": "新建",
   "app.history": "历史",
 
